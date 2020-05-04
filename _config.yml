@@ -64,3 +64,7 @@ defaults:
       type: "posts"
     values:
       permalink: ""
+
+collections:
+  - what_i_do
+  - experiences
