@@ -242,6 +242,12 @@ section.success {
     margin: 0;
 }
 
+.portfolio-item-header {
+    font-size: 24px;
+    font-weight: bold;
+    text-align: center;
+}
+
 #portfolio * {
     z-index: 2;
 }
