@@ -1,0 +1,11 @@
+---
+layout: default
+modal-id: 5
+date: 2014-07-14
+img: bailey_talk.jpg
+alt: image-alt
+project-date: April 2014
+client: Start Bootstrap
+category: Talks
+description: "We've given a variety of conference talks and workshops to people of all ages. Check out some of what we've done here: <a href=\"https://baileysage.github.io/talks.html\">https://baileysage.github.io/talks.html</a>"
+---

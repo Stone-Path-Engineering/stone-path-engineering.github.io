@@ -1,0 +1,23 @@
+
+    <!-- Experience Grid Section -->
+    <section id="experience">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12 text-center">
+                    <h2>Experience</h2>
+                    <hr class="star-primary">
+                </div>
+            </div>
+            <div class="row">
+                {% for post in site.experiences %}
+                    <!-- change to col-sm-6 to have two wide, col-sm-4 for 3 wide, col-sm-3 for 4 wide -->
+                    <div class="col-sm-6 portfolio-item">
+                            <img src="img/{{ post.img }}" class="img-responsive" alt="{{ post.alt }}">
+                            <div><p class="portfolio-item-header"><strong>{{ post.category }}</strong></p></div>
+                            <div><p>{{ post.description }}</p></div>
+<!--                        </a>-->
+                    </div>
+                {% endfor %}
+            </div>
+        </div>
+    </section>

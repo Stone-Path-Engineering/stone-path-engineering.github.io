@@ -1,0 +1,11 @@
+---
+layout: default
+modal-id: 3
+date: 2020-04-29
+img: training_small.jpg
+alt: image-alt
+project-date: April 2020
+client: Start Bootstrap
+category: Training
+description: Whether you have middle school students learning to program for the first time or seasoned developers wanting to break into hardware, we are happy to bring customized training to your group.
+---
