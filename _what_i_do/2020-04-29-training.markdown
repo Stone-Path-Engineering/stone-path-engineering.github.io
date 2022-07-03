@@ -7,5 +7,5 @@ alt: image-alt
 project-date: April 2020
 client: Start Bootstrap
 category: Training
-description: Whether you have middle school students learning to program for the first time or seasoned developers wanting to break into hardware, we are happy to bring customized training to your group.
+description: From middle school students learning to program to seasoned developers breaking into hardware, Stone Path brings customized training to your group.
 ---
