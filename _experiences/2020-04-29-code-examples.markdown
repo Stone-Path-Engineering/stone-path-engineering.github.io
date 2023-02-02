@@ -6,6 +6,6 @@ img: code_small.jpg
 alt: image-alt
 project-date: April 2020
 client: Start Bootstrap
-category: Code Examples
-description: We keep some of our work over at GitHub. Feel free to take a look here <a href="https://github.com/Stone-Path-Engineering">https://github.com/Stone-Path-Engineering</a>
+category: Code and More
+description: We aim to share our work with the community whenever possible. You can find code and other reusable tools on <a href="https://github.com/Stone-Path-Engineering">our GitHub page.</a>
 ---
