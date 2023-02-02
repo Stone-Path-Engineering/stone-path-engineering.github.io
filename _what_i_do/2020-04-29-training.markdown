@@ -7,5 +7,5 @@ alt: image-alt
 project-date: April 2020
 client: Start Bootstrap
 category: Training
-description: From middle school students learning to program to seasoned developers breaking into hardware, Stone Path brings customized training to your group.
+description: Stone Path provides training to transition existing developers to embedded development, embedded team workflows, and effective multidisciplinary team processes.
 ---
