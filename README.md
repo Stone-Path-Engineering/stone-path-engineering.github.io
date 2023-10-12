@@ -1,9 +1,9 @@
-## Embedded Development
+# Embedded Engineering Consulting
 
-Available for hire. 
+Available for hire.
 
 ## Contact me
 
-bailey@stonepathengineering.com
+<bailey@stonepathengineering.com>
 
 Des Moines, IA 50310
