@@ -1,9 +1,9 @@
 # Embedded Engineering Consulting
 
-Available for hire.
+Now operating through Spark Embedded, LLC
 
 ## Contact me
 
-<bailey@stonepathengineering.com>
+<bailey@sparkembedded.com>
 
-Des Moines, IA 50310
+West Des Moines, IA 50265
