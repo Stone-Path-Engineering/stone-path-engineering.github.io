@@ -9,18 +9,15 @@
                 </div>
             </div>
             <div class="row">
-                <div class="col-lg-12"></div>
-                    <a href="https://sparkembedded.com">Visit sparkembedded.com to see our current capabilities.</a>
-                </div>
-                <!-- {% for post in site.what_i_do %} -->
+                {% for post in site.what_i_do %}
                     <!-- change to col-sm-6 to have two wide, col-sm-4 for 3 wide, col-sm-3 for 4 wide -->
-                    <!-- <div class="col-sm-4 portfolio-item">
+                    <div class="col-sm-4 portfolio-item">
                             <img src="img/{{ post.img }}" class="img-responsive" alt="{{ post.alt }}">
                             <div><p class="portfolio-item-header"><strong>{{ post.category }}</strong></p></div>
-                            <div><p>{{ post.description }}</p></div> -->
+                            <div><p>{{ post.description }}</p></div>
 <!--                        </a>-->
-                    <!-- </div>
-                {% endfor %} -->
+                    </div>
+                {% endfor %}
             </div>
         </div>
     </section>
