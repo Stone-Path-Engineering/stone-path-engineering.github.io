@@ -2,7 +2,7 @@
 title: Stone Path Engineering
 email: bailey@stonepathengineering.com
 url: https://github.com/Stone-Path-Engineering/
-description: "Now part of Spark Embedded, LLC"
+description: "Stone Path Engineering, LLC"
 keywords: "embedded development, firmware, engineering"
 skills: "Consulting and Training"
 meta_author: Steinfadt Bailey
@@ -38,8 +38,8 @@ footer:
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-  # - title: twitter
-  #   url: https://twitter.com/stonepatheng
+  - title: twitter
+    url: https://twitter.com/stonepatheng
   - title: github
     url: https://github.com/Stone-Path-Engineering/
   - title: linkedin
