@@ -4,11 +4,17 @@
             <div class="container">
                 <div class="row">
                     <div class="footer-col col-md-6">
-                        <h3>{{ site.footer.location }}</h3>
+                        <h3>{{ site.footer.location.title }}</h3>
                         <p>
-                            {% for adress in site.address %}
-                                {{ adress.line }} <br>
-		                    {% endfor %}
+                            {% for address_line in site.address %}
+                                {{ address_line.line }}<br>
+                            {% endfor %}
+                        </p>
+                        <p style="margin-top: 20px;">
+                            Proud Member Of<br>
+                            <a href="https://www.maplestudios.com/" target="_blank" rel="noopener noreferrer">
+                                <img src="{{ site.baseurl }}/img/maple_studios_logo.png" alt="Maple Studios Logo" height="60">
+                            </a>
                         </p>
                     </div>
                     <div class="footer-col col-md-6">
