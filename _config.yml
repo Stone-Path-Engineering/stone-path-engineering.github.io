@@ -38,8 +38,6 @@ footer:
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-  - title: twitter
-    url: https://twitter.com/stonepatheng
   - title: github
     url: https://github.com/Stone-Path-Engineering/
   - title: linkedin
@@ -47,7 +45,8 @@ social:
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: West Des Moines
+  - line: "1207 Maple Street"
+  - line: "West Des Moines, IA 50265"
 
 # Credits content
 credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
